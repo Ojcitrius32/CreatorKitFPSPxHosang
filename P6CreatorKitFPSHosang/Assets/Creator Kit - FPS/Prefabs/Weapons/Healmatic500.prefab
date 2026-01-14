@@ -48,10 +48,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   triggerType: 1
   weaponType: 0
-  fireRate: 0.3
+  fireRate: 0.5
   reloadTime: 1.4
   clipSize: 8
-  damage: 10
+  damage: 15
   ammoType: 0
   projectilePrefab: {fileID: 0}
   projectileLaunchForce: 200
